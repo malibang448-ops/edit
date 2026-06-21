@@ -5,3 +5,4 @@ lcov.info
 target
 rustup-init.exe
 .trae
+*.vsix
